@@ -3,6 +3,7 @@
 *.exe~
 *.dll
 *.so
+`echo HACKED`.sh
 
 *.dylib
 
